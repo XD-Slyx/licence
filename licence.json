@@ -1,4 +1,4 @@
 {
-  licenced = True
-  version = 0.01
+  "licenced": true,
+  "version": "0.01"
 }
